@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ec4258d-3645-488f-b056-a2162bb1a947" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/foo/app/AppWebApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/foo/app/AppWebResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/QoS-app-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/QoS-app-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/QoS-app-1.0-SNAPSHOT.oar" beforeDir="false" afterPath="$PROJECT_DIR$/target/QoS-app-1.0-SNAPSHOT.oar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/foo/app/AppWebResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/foo/app/AppWebResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oar/m2/org/foo/QoS-app/1.0-SNAPSHOT/QoS-app-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/oar/m2/org/foo/QoS-app/1.0-SNAPSHOT/QoS-app-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-org.foo.app.AppComponentTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-org.foo.app.AppComponentTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/org.foo.app.AppComponentTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/org.foo.app.AppComponentTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/swagger.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/swagger.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2a7dW3bqsNX1FBH5TvlPhyLkNYf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ec4258d-3645-488f-b056-a2162bb1a947" name="Changes" comment="" />
+      <created>1703673582231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703673582231</updated>
+      <workItem from="1703673585679" duration="2278000" />
+      <workItem from="1703676014077" duration="37000" />
+      <workItem from="1703676061145" duration="998000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
