@@ -41,6 +41,7 @@
     </properties>
 
     <dependencies>
+
         <dependency>
             <groupId>org.onosproject</groupId>
             <artifactId>onos-api</artifactId>
@@ -52,6 +53,15 @@
             <artifactId>onlab-osgi</artifactId>
             <version>${onos.version}</version>
         </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.onosproject/onos-drivers-ovsdb -->
+        <dependency>
+            <groupId>org.onosproject</groupId>
+            <artifactId>onos-drivers-ovsdb</artifactId>
+            <version>1.8.9</version>
+        </dependency>
+
+
 
         <dependency>
             <groupId>org.onosproject</groupId>
