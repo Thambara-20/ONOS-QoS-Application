@@ -157,6 +157,25 @@
       <version>${onos.version}</version>
       <scope>provided</scope>
     </dependency>
+
+        <dependency>
+            <groupId>org.eclipse.jetty</groupId>
+            <artifactId>jetty-servlets</artifactId>
+            <version>9.4.40.v20210413</version> <!-- Use the latest version available -->
+        </dependency>
+
+        <dependency>
+            <groupId>org.eclipse.jetty</groupId>
+            <artifactId>jetty-server</artifactId>
+            <version>9.4.40.v20210413</version> <!-- Use the latest version available -->
+        </dependency>
+
+        <dependency>
+            <groupId>org.eclipse.jetty</groupId>
+            <artifactId>jetty-servlet</artifactId>
+            <version>9.4.40.v20210413</version> <!-- Use the latest version available -->
+        </dependency>
+
     </dependencies>
 
     <build>
